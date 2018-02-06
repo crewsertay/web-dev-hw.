@@ -1,0 +1,8 @@
+Assignment 2 Responses
+- Data travels through the internet by computers communicating with each other. Computers use IP addresses to indicate where information is going to an coming from. Information is broken up into packages and sent in smaller bits to another IP address. Once the package has arrived, the file is reassembled on the receiving computer.
+
+- Computers communicate with a DNS in order to find an IP address for a website. A computer will "ask" the DNS what the actual IP address is for a URL and the DNS will find it, sending it back to the computer and routing you to the correct website.
+
+- A cookie essentially saves your information (usually for login info) so the computer doesn't have to search for the correct information via DNS every time you try to log onto a site you use often.
+
+- Protocol, domain name, path
