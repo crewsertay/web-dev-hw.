@@ -12,4 +12,6 @@ One problem that I had this week was getting my table formatted correctly. I am 
 
 I am curious about "back end" of the form process; how to access the info that users submit, etc.
 
-I didn't help any classmates via the repo this week, but I did help one of my friends who is also in the class in person because she was struggling with her table as well. 
+I didn't help any classmates via the repo this week, but I did help one of my friends who is also in the class in person because she was struggling with her table as well.
+
+![work cycle](./images/workcycle-4.png)
