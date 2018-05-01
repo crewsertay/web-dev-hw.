@@ -1,0 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+body {
+  background-color: wheat;
+}
+
+.Title {
+  color: FireBrick;
+  font-family: EastSeaDokdo-Regular;
+  text-align: center;
+  font-size: 20pt;
+  line-height: 1.5em;
+}
+
+.Author {
+  color: Black;
+  font-size: 120%;
+  text-align: center;
+}
+
+.Chapter {
+  color: Black;
+  text-decoration: overline;
+  text-align: center;
+}
+
+.Excerpt {
+  font-family: Roboto, normal;
+  color: Black;
+  text-align: justify;
+}
+
+.Excerpt p:first-child::first-letter {
+  color: FireBrick;
+  font-weight:bold;
+  font-family: EastSeaDokdo-Regular;
+  font-size: 40pt;
+}
+
+a {
+    text-decoration: none;
+    color: FireBrick;
+    font-weight: bold;
+    font-family: EastSeaDokdo-Regular;
+    font-size: 40pt;
+}
+
+.button:hover {
+  color: Black;
+  font-style: italic;
+}
+
+.button:active {
+  color: black;
+  background-color: SlateGray;
+  border-color: black;
+  border-width: 15px;
+}
+
+.button:visited {
+  color: SlateGray;
+  font-style: italic;
+}
