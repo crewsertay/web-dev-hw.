@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+@import url('https://fonts.googleapis.com/css?family=Muli');
+
+@import url('https://fonts.googleapis.com/css?family=Knewave');
+
+body {
+  background-color: #FDFDF1;
+}
+
+.MainContainer {
+  color: #FDFDF1;
+  width:
+}
+
+.Title {
+  color: #303f44;
+  font-family: Knewave, normal;
+  position: absolute;
+  left: 250px;
+  font-size: 20px;
+  top: 30px;
+  line-height: .75em;
+}
+
+.HeaderText {
+  position: absolute;
+  color: #303f44;
+  font-family: Muli, normal;
+  font-style: italic;
+  font-weight: bold;
+  z-index: 5;
+  top: 210px;
+  left: 350px;
+}
+
+.parent-container {
+  width: 40%;
+  height: 10%;
+  background-color: #303f44;
+  z-index: 5;
+  left: 350px;
+  top: 150px;
+  right: 40px;
+  position: absolute;
+}
+
+.inner-box {
+  font-size: 20px;
+  font-family: Muli, normal;
+  color: white;
+  margin-left: auto;
+  margin-left: auto;
+  margin-bottom: auto;
+  margin-top: .1em;
+  position: absolute;
+}
+
+#woman {
+  position: absolute;
+  left: 40px;
+  top: 70px;
+  width: 400;
+  height: 1000;
+  z-index: 0;
+}
+
+#BaglessVacuum {
+  position: absolute;
+  top: 250px;
+  left: 240px;
+  display: inline-block;
+}
+
+#BaglessOutside {
+  position: absolute;
+  left: 260px;
+  top: 360px;
+  display: inline-block;
+}
+
+#wastebasket {
+  position: absolute;
+  left: 250px;
+  top: 470px;
+  display: inline-block;
+}
+
+.DeclarativeText {
+  font-family: Knewave;
+  color: #ED1707;
+  font-size: 20px;
+  position: absolute;
+  left: 350px;
+  top: 220px;
+}
+
+#DT2 {
+  top: 320px;
+}
+
+#DT3 {
+  top: 390px;
+}
+
+#PatentText {
+  position: absolute;
+  left: 10px;
+  font-size: 10px;
+  top:450px;
+}
+
+.DTSubtext {
+  font-family: Muli, normal;
+  color: #303F44;
+  position: absolute;
+  left: 350px;
+}
+
+#Subtext1 {
+  top: 280px;
+}
+
+#Subtext2 {
+  top: 380px;
+}
+
+#Subtext3 {
+  top: 450px;
+}
+
+.TextContainer {
+  position: absolute;
+  left: 350px;
+  top: 600px;
+  width: 220;
+  height: 700;
+}
+
+.ExplainerText {
+  font-family: Merriweather, normal;
+  color: #303F44;
+  font-size: 14px;
+  text-align: justify;
+}
+
+.TextBlock {
+  position: absolute;
+  Left: 10px;
+  top: 850px;
+  width: 300;
+  height: 500;
+}
+
+.Text1 {
+  color: #303F44;
+  font-family: Muli, normal;
+  font-size: 12px;
+  text-align: justify;
+  position: absolute;
+}
+
+.TextBlock2 {
+  position: absolute;
+  Left: 10px;
+  top: 1100px;
+  width: 230;
+  height: 500;
+}
+
+#Scene {
+  z-index: -5;
+  position: absolute;
+  top:650px;
+}
+
+.FilterQueenImage {
+  position: absolute;
+  top: 950px;
+  left: 50px;
+  z-index: 3;
+}
+
+.Logo {
+  position: absolute;
+  top: 920px;
+  left: 270px;
+}
+
+.Guarantee {
+  position: absolute;
+  top: 1050px;
+  right: 20px;
+}
+
+.TextBlock3 {
+  position: absolute;
+  border-style: dashed;
+  border-width: medium;
+  border-color: #303F44;
+  padding: 5px;
+  top:1090px;
+  right: 10px;
+  width: 300;
+  height: 200;
+  z-index: 1;
+}
+
+.TextBlock4 {
+  position: absolute;
+  top:1300px;
+  left: auto;
+  right: auto;
+}
